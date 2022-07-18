@@ -51,7 +51,8 @@ body {
     /* letter-spacing: -2px; */
     color: hsl(212, 21%, 14%); 
     font-weight: bolder;
-    font-family: 'Montserrat' sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Fraunces', serif; */
 }
 
 #card-content-p {
